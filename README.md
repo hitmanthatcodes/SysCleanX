@@ -28,7 +28,7 @@ To run the project from the source code, you'll need Python and a few dependenci
     * pip (Python package installer)
 2.  **Installation**
     ```sh
-    git clone [https://github.com/hitmanthatcodes/SysCleanX.git](https://github.com/hitmanthatcodes/SysCleanX.git)
+    git clone https://github.com/hitmanthatcodes/SysCleanX.git
     cd SysCleanX
     pip install -r requirements.txt
     ```
